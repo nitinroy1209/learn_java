@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>project1</name>
+=======
+	<name>LearningJava</name>
+>>>>>>> c021bd34163a55913bccf085080e7f1b59c4e8f7
 	<comment></comment>
 	<projects>
 	</projects>
